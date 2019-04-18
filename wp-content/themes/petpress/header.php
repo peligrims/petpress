@@ -21,10 +21,10 @@
 </head>
 
 <body  class="page1" <?php body_class(); ?>>
-
+<header>
  <div class="container_12">
         <div class="grid_12">            
-            <div><a href="<?php echo home_url('/') ?>"><img src="<?php echo get_template_directory_uri() ?>/assets/images/logo.png" alt=""></a></div>
+            <div><h1><a href="<?php echo home_url('/') ?>"><img src="<?php echo get_template_directory_uri() ?>/assets/images/logo.png" alt=""></a></h1></div>
             <div class="menu_block">
                 <nav>
                    
@@ -42,3 +42,4 @@
             <div class="clear"></div>
         </div>
     </div>
+</header>
