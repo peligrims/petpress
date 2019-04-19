@@ -141,7 +141,7 @@ function petpress_scripts() {
     wp_deregister_script( 'jquery' );
     wp_register_script( 'jquery', get_template_directory_uri() . '/assets/js/jquery.min.js');
     wp_enqueue_script( 'jquery' );
-
+	wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/jquery.carouFredSel-6.1.0-packed.js', array(), '', true );
 
     wp_enqueue_script( 'petpress-bootstrap-js', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array(), '', true );
     wp_enqueue_script( 'petpress-owl-carousel-js', get_template_directory_uri() . '/assets/js/owl.carousel.min.js', array(), '', true );
@@ -149,16 +149,11 @@ function petpress_scripts() {
     wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/forms.js', array(), '', true );
     wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/jquery-migrate-1.1.1.js', array(), '', true );
     wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/superfish.js', array(), '', true );
-    wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/jquery.carouFredSel-6.1.0-packed.js', array(), '', true );
+    
     wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/jquery.equalheights.js', array(), '', true );
     wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/jquery.ui.totop.js', array(), '', true );
     wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/jquery.easing.1.3.js', array(), '', true );
-    wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/tms-0.4.1.js', array(), '', true );
-
-
-    
-    wp_enqueue_script( 'petpress-jquery-magnific-popup-js', get_template_directory_uri() . '/assets/js/jquery.magnific-popup.min.js', array(), '', true );
-    wp_enqueue_script( 'petpress-magnific-popup-options-js', get_template_directory_uri() . '/assets/js/magnific-popup-options.js', array(), '', true );
+    wp_enqueue_script( 'petpress-jquery-countTo-js', get_template_directory_uri() . '/assets/js/tms-0.4.1.js', array(), '', true );    
     wp_enqueue_script( 'petpress-main-js', get_template_directory_uri() . '/assets/js/main.js', array(), '', true );
     wp_localize_script('petpress-main-js', 'petpressData', array('themePath' => get_template_directory_uri()));
    

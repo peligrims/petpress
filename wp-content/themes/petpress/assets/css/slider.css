@@ -11,7 +11,7 @@
 
 
 .items {
-	display: none;	
+	display: none;
 	overflow: hidden;
 }
 
@@ -20,7 +20,7 @@
 	height: 583px;
 	margin: 0 auto;
 	margin-bottom: 63px;
-	
+
 }
 .slider {
 	z-index:2;
@@ -33,7 +33,7 @@
 }
 
 
-.slider .banner{
+div .banner{
 	top: -1px;
 	left: 932px;
 	bottom: 0;
@@ -41,13 +41,13 @@
 	padding-right: 56px;
 	position: absolute;
 	font: normal 30px/36px Arial, Helvetica, sans-serif;
-	color: #fff;	
+	color: #fff;
 	padding-top: 193px;
 	width: 203px;
 	background: #333131;
 }
 
-.slider .banner span {
+.slider nivo-html-caption .banner span {
 	color: #f98d0d;
 }
 

@@ -1,35 +1,75 @@
 <?php get_header() ?>
 
-<div class="top_block">
+<!--<div class="top_block">
     <div class="slider-relative">
         <div class="slider-block">
             <div class="slider">
                 <ul class="items">
-                    <li><img src="<?php echo get_template_directory_uri() ?>/assets/images/slide.jpg" alt="">
-                        <div class="banner">They Need Your <span>Love</span> and <i>Care</i>
-                            <p>It is so easy to make them happy</p>
+                	<li style="background-image: url(<?php echo get_template_directory_uri() ?>/assets/images/slide.jpg);">
+                   		<div class="overlay-gradient"></div>
+			                <div class="container">
+			                    <div class="row">
+			                        <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+			                            <div class="slider-text-inner">                                		
+                       					 	<div class="banner">They Need Your <span>Love</span> and <i>Care</i>
+                            				<p>It is so easy to make them happy</p>
+                        					</div>
+                        				</div>
+                        			</div>
+                        		</div>
+                        	</div>
                         </div>
                     </li>
-                    <li><img src="<?php echo get_template_directory_uri() ?>/assets/images/slide1.jpg" alt="">
-                        <div class="banner">They Need Your <span>Love</span> and <i>Care</i>
-                            <p>It is so easy to make them happy</p>
+                    <li style="background-image: url(<?php echo get_template_directory_uri() ?>/assets/images/slide1.jpg);">
+                   		<div class="overlay-gradient"></div>
+			                <div class="container">
+			                    <div class="row">
+			                        <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+			                            <div class="slider-text-inner">                                		
+                       					 	<div class="banner">They Need Your <span>Love</span> and <i>Care</i>
+                            				<p>It is so easy to make them happy</p>
+                        					</div>
+                        				</div>
+                        			</div>
+                        		</div>
+                        	</div>
                         </div>
                     </li>
-                    <li><img src="<?php echo get_template_directory_uri() ?>/assets/images/slide2.jpg" alt="">
-                        <div class="banner">They Need Your <span>Love</span> and <i>Care</i>
-                            <p>It is so easy to make them happy</p>
+                    <li style="background-image: url(<?php echo get_template_directory_uri() ?>/assets/images/slide2.jpg);">
+                   		<div class="overlay-gradient"></div>
+			                <div class="container">
+			                    <div class="row">
+			                        <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+			                            <div class="slider-text-inner">                                		
+                       					 	<div class="banner">They Need Your <span>Love</span> and <i>Care</i>
+                            				<p>It is so easy to make them happy</p>
+                        					</div>
+                        				</div>
+                        			</div>
+                        		</div>
+                        	</div>
                         </div>
                     </li>
-                    <li><img src="<?php echo get_template_directory_uri() ?>/assets/images/slide3.jpg" alt="">
-                        <div class="banner">They Need Your <span>Love</span> and <i>Care</i>
-                            <p>It is so easy to make them happy</p>
+                    <li style="background-image: url(<?php echo get_template_directory_uri() ?>/assets/images/slide3.jpg);">
+                   		<div class="overlay-gradient"></div>
+			                <div class="container">
+			                    <div class="row">
+			                        <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+			                            <div class="slider-text-inner">                                		
+                       					 	<div class="banner">They Need Your <span>Love</span> and <i>Care</i>
+                            				<p>It is so easy to make them happy</p>
+                        					</div>
+                        				</div>
+                        			</div>
+                        		</div>
+                        	</div>
                         </div>
                     </li>
                 </ul>
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <div class="page1_block">
     <div class="container_12">
         <div class="grid_6">
@@ -116,7 +156,7 @@
         </ul>
     </div>
 </div>
-<div class="bottom_block">
+<!--<div class="bottom_block">
     <div class="container_12">
         <div class="grid_6">
             <h2>Pet Care Tips </h2>
@@ -140,7 +180,7 @@
         </div>
         <div class="clear"></div>
     </div>
-</footer>
+</footer>-->
 <?php wp_footer() ?>
 </body>
 </html>
