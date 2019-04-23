@@ -116,7 +116,7 @@
         </div>
     </div>
 </div>
-<div class="content page1">
+<!--<div class="content page1">
     <div class="container_12">
         <div class="grid_12"> <a href="#" class="next"></a><a href="#" class="prev"></a>
             <h2>Pets for Adoption</h2>
@@ -155,7 +155,7 @@
             </li>
         </ul>
     </div>
-</div>
+</div>-->
 <!--<div class="bottom_block">
     <div class="container_12">
         <div class="grid_6">

@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="39d0f5c1-a749-428b-81a0-ca5cdb237325" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/template/__pet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/template/__pet/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" column="77" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/main.js">
           <provider selected="true" editor-type-id="text-editor" />
@@ -45,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -59,13 +48,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4658">
+            <state relative-caret-position="7004">
               <caret line="412" column="10" selection-start-line="412" selection-start-column="1" selection-end-line="412" selection-end-column="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/bottom_block/static/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -77,24 +71,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../lawp1.loc/wp-content/themes/law/assets/css/law.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-6590" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
           </provider>
         </entry>
       </file>
@@ -112,6 +101,7 @@
     <findStrings>
       <find>hei</find>
       <find>grid_1</find>
+      <find>carousel1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,9 +112,10 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/petpress/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/petpress/main.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/slider.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/petpress/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/bottom_block/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css" />
       </list>
     </option>
   </component>
@@ -226,15 +217,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555571536278</updated>
-      <workItem from="1555571537735" duration="8929000" />
+      <workItem from="1555571537735" duration="12183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8929000" />
+    <option name="totallyTimeSpent" value="12183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -296,14 +287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../lawp1.loc/wp-content/themes/law/assets/css/law.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6590" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -314,14 +297,32 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/carousel/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4658">
+        <state relative-caret-position="7004">
           <caret line="412" column="10" selection-start-line="412" selection-start-column="1" selection-end-line="412" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/bottom_block/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lawp1.loc/wp-content/themes/law/assets/css/law.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
