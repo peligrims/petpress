@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d0f5c1-a749-428b-81a0-ca5cdb237325" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/petpress/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/petpress/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -119,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="284" />
     <option name="y" value="490" />
     <option name="width" value="1600" />
@@ -217,12 +213,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555571536278</updated>
-      <workItem from="1555571537735" duration="12183000" />
+      <workItem from="1555571537735" duration="12287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12183000" />
+    <option name="totallyTimeSpent" value="12287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -321,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/petpress/assets/css/petpress.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>

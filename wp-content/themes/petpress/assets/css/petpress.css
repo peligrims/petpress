@@ -10,3 +10,7 @@
     margin-right: auto;
     width: 960px;
 }
+ul.list li>span time {
+    display: block;
+    padding-top: 0;
+}
