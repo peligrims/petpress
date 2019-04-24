@@ -125,6 +125,9 @@ function petpress_scripts() {
 	wp_enqueue_style( 'petpress-style', get_stylesheet_uri() );
 
 	wp_enqueue_style( 'petpress-googlefonts', 'https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800' );
+	
+
+	wp_enqueue_style( 'petpress-icomoon', get_template_directory_uri() . '/assets/css/icomoon.css' );
     wp_enqueue_style( 'petpress-bootstrap', get_template_directory_uri() . '/assets/css/bootstrap.css' );
     wp_enqueue_style( 'petpress-bootstrap', get_template_directory_uri() . '/assets/css/bootstrap.css' );
     wp_enqueue_style( 'petpress-magnific-popup', get_template_directory_uri() . '/assets/css/magnific-popup.css' );

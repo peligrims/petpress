@@ -70,7 +70,7 @@
         </div>
     </div>
 </div>-->
-<div class="page1_block">
+<!--<div class="page1_block">
     <div class="container_12">
         <div class="grid_6">
             <h2>Welcome to Our Site</h2>
@@ -115,7 +115,7 @@
             </ul>
         </div>
     </div>
-</div>
+</div>-->
 <!--<div class="content page1">
     <div class="container_12">
         <div class="grid_12"> <a href="#" class="next"></a><a href="#" class="prev"></a>
